@@ -1,1 +1,1 @@
-# photo-sharing-level-medium
+# Great React Typescript Frontend Template
